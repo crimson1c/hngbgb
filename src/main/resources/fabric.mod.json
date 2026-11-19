@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"petwhistle","version":"${version}","name":"Pet Whistle","description":"Recall your nearby tamed pets with a craftable whistle.","license":"CC0-1.0","environment":"*","entrypoints":{"main":["com.petwhistle.PetWhistle"]},"depends":{"fabricloader":">=0.20.1","minecraft":"~1.21.1","java":">=21","fabric-api":"*"}}

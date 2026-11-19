@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":[" I "," IB","S  "],"key":{"I":{"item":"minecraft:iron_ingot"},"B":{"item":"minecraft:bone"},"S":{"item":"minecraft:string"}},"result":{"id":"petwhistle:whistle","count":1}}
